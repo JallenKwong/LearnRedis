@@ -1,0 +1,6 @@
+software/
+.classpath
+.project
+.settings/
+target/
+
